@@ -20,6 +20,18 @@
     * <img src="./ss/Tugas_1.png">
    Screeshot output
     * <img src="./ss/Tugas_1.png">
-2. 
-3. 
-4. 
+2. Screenshot code
+    * png/jpeg/jpg/svg/gif
+    * <img src="./ss/Tugas_1.png">
+   Screeshot output
+    * <img src="./ss/Tugas_1.png">
+3. Screenshot code
+    * png/jpeg/jpg/svg/gif
+    * <img src="./ss/Tugas_1.png">
+   Screeshot output
+    * <img src="./ss/Tugas_1.png">
+4. Screenshot code
+    * png/jpeg/jpg/svg/gif
+    * <img src="./ss/Tugas_1.png">
+   Screeshot output
+    * <img src="./ss/Tugas_1.png">
