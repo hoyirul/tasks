@@ -1,19 +1,17 @@
-import java.util.Scanner;
 public class Kubus {
-    Scanner sc = new Scanner(System.in);
     public double sisi;
     
-    public Kubus(double sisi){
-        this.sisi = sisi;
+    public Kubus(double s){
+        sisi = s;
     }
     
     double volume(){
-        double volume = sisi * sisi * sisi;
-        return volume;
+        double volum = // Rumus V Kubus
+        return volum;
     }
     
-    double luasPermukaan(){
-        double luas = sisi * sisi;
-        return luas;
+    double luasAlas(){
+        double luasAlas = // Rumus LA Kubus
+        return luasAlas;
     }
 }

@@ -1,6 +1,4 @@
-import java.util.Scanner;
 public class Balok {
-    Scanner sc = new Scanner(System.in);
     public double panjang, lebar, tinggi;
     
     public Balok(double p, double l, double t){
@@ -10,12 +8,12 @@ public class Balok {
     }
     
     double volume(){
-        double v = p * l * t;
-        return v;
+        double volum = // Rumus Balok
+        return volum;
     }
     
-    double luasPermukaan(){
-        double lP = p * l;
-        return lP;
+    double luasAlas(){
+        double luasAlas = // Rumus Balok
+        return luasAlas;
     }
 }
